@@ -1,4 +1,4 @@
-#0차시
+# 0차시
 
 여러분 안녕하세요.
 `에디터 만들기` 수업은 이 repo의 README를
@@ -7,7 +7,7 @@
 오늘은 에디터가 뭔지 알아보고
 작업환경, 목차등을 알아볼꺼에요.
 
-###에디터
+### 에디터
 `A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source-code editors are a fundamental programming tool, as the fundamental job of programmers is to write and edit source code.`
 -출처 [wiki](https://en.wikipedia.org/wiki/Source-code_editor)
 
@@ -27,19 +27,19 @@ console.log(x);
 ```
 이런식으로 하이라이팅도 해줘요.
 
-###작업환경
+### 작업환경
 
-####개발
+#### 개발
 
 저는 `Github`에 파일을 올릴꺼에요.
 이 repo를 fork해서 gh-desktop, vsc 사용을 권장해요.
 
-####배포
+#### 배포
 
 저는 `gh-pages`로 배포를 할건데
 `firebase hosting`을 사용을 하는 방법도 알려줄꺼에요.
 
-###목차
+### 목차
 
 - 0차시
   - 에디터란
