@@ -7,6 +7,8 @@
 오늘은 에디터가 뭔지 알아보고
 작업환경, 목차등을 알아볼꺼에요.
 
+`👁️` `⭐` **필수!**
+
 ### 에디터
 `A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source-code editors are a fundamental programming tool, as the fundamental job of programmers is to write and edit source code.`
 -출처 [wiki](https://en.wikipedia.org/wiki/Source-code_editor)
